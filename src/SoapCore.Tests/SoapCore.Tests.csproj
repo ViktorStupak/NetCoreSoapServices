@@ -31,7 +31,7 @@
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
 		</PackageReference>
-		<PackageReference Include="System.ServiceModel.Http" Version="4.4.1" />
+		<PackageReference Include="System.ServiceModel.Http" Version="4.4.4" />
 		<PackageReference Include="Moq" Version="4.9.0" />
 		<PackageReference Include="Shouldly" Version="3.0.0" />
 		<PackageReference Include="xunit" Version="2.4.0" />
